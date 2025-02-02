@@ -10,6 +10,7 @@ Here, I'll be posting everything related to the Datatalks Data Engineering Zoomc
   - Setting up Airflow (I won't be using Kestra)
   - BigQuery features and best practices
 
+
 And I've submitted the following assigments:
 
   - Homework 1
